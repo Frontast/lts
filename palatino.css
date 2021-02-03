@@ -1,0 +1,8 @@
+@font-face {
+ font-family: 'Palatino Linotype';
+ src: url('../fonts/Palatino-Linotype.ttf');
+ src: local('../fonts/Palatino-Linotype'), local('../fonts/Palatino-Linotype'),
+  url('../fonts/Palatino-Linotype.ttf') format('truetype');
+ font-weight: 400;
+ font-style: normal;
+}
